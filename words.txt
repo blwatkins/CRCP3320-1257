@@ -3,3 +3,6 @@ field
 water
 computer
 phone
+wagon
+house
+keyboard
