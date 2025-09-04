@@ -1,0 +1,5 @@
+tire
+field
+water
+computer
+phone
